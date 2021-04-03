@@ -4,15 +4,12 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Spartan', sans-serif;
-    /* font-size: 0.9375em; */
 }
 
 body{
-    background-image: url(../social-proof-section-master/images/bg-pattern-top-mobile.svg), url(../social-proof-section-master/images/bg-pattern-bottom-mobile.svg);
+    background-image: url(images/bg-pattern-top-mobile.svg), url(images/bg-pattern-bottom-mobile.svg);
     background-repeat: no-repeat;
     background-position:left 0vw top 0vh, left 0vw bottom 0vh;
-    
-    
 }
 .social-section{ 
     margin-top: 77px;
@@ -115,7 +112,7 @@ h1{
     
 
     body{
-        background-image: url(../social-proof-section-master/images/bg-pattern-top-desktop.svg), url(../social-proof-section-master/images/bg-pattern-bottom-desktop.svg);
+        background-image: url(images/bg-pattern-top-desktop.svg), url(images/bg-pattern-bottom-desktop.svg);
         background-repeat: no-repeat;
         background-position:right 60vw bottom 50vh, left 26vw top 18vh;
         display: flex;
